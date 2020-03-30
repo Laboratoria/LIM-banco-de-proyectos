@@ -17,7 +17,7 @@ React o Vue; previamente elegida por ti.
 
 Se puede replicar el diseño propuesto o crear su propio estilo.
 
-El tiempo estimado de este proyecto es 10 días.
+El tiempo estimado de este proyecto es 2 a 3 días.
 
 ## Recursos
 
