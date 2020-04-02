@@ -8,7 +8,6 @@ El principal objetivo de esta extensión de bootcamp es que puedas seguir profun
 - [Lab-songs](01-lab-songs.md)
 - [Juego de memoria](03-cards-memory.md)
 - [Movie Challenge](04-movie-challenge)
-- [Spotify: precios en el mundo](05-prices-spotify)
 
 ## Ejercicios
 
