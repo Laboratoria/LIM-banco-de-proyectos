@@ -8,8 +8,7 @@ algún servicio de streaming, uno de recomendaciones de películas de terror, co
 
 **Demo:** 
 
-![Netflix](![netflix-screenshot](https://user-images.githubusercontent.com/32286663/78277212-c03a6880-74d9-11ea-8b0e-0a6b2dccac6d.jpg)
-)
+![example-movies](https://user-images.githubusercontent.com/32286663/78281151-d814eb00-74df-11ea-96b5-6db9a1d4c650.jpg)
 
 ## Consideraciones generales
 
